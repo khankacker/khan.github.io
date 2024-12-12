@@ -1,0 +1,47 @@
+/* -------------------------------------------
+
+Name:       Josie
+Version:    1.0
+Author:	    bslthemes
+Website:    https://bslthemes.com/
+Developer:	millerDigitalDesign (https://themeforest.net/user/millerdigitaldesign/)
+
+------------------------------------------- */
+
+/*--------------------------------------------
+
+1. common
+    - main
+    - settings
+    - typography
+    - social
+    - slider
+    - cursor
+    - scrollbar
+    - pagination
+    - filter
+    - form
+    - buttons
+    - spaces
+2. components
+    - preloader
+    - top panel
+    - sidebar
+    - content
+    - menu
+    - banner
+    - services
+    - about
+    - portfolio
+    - blog
+    - skills
+    - experience
+    - 404
+3. dark mode settings
+
+--------------------------------------------*/
+
+@import 'variables-dark';
+@import 'common';
+@import 'components';
+@import 'dark-set';

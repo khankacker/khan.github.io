@@ -1,0 +1,38 @@
+/* -------------------------------------------
+
+dark mode settings
+
+------------------------------------------- */
+body {
+    background-color: $m3;
+}
+
+img {
+    filter: grayscale(100%);
+}
+
+.mil-icon-part img {
+    filter: grayscale(0) hue-rotate(90deg) brightness(130%);
+    ;
+}
+
+.mil-light-active {
+    &:after {
+        color: $m4;
+        filter: invert(80%);
+    }
+}
+
+form {
+
+    & input,
+    & textarea {
+        border-color: rgba($m2, .3);
+    }
+}
+
+.mil-cursor-follower {
+    &:after {
+        filter: invert(0);
+    }
+}
