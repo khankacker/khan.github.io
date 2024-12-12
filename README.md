@@ -15,7 +15,7 @@
     <!-- swiper css -->
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
     <!-- okai css -->
-    <link rel="stylesheet" href="css/style-light.css">
+    <link rel="stylesheet" href="css/style-dark.css">
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -47,7 +47,7 @@
 
         <!-- top panel -->
         <div class="mil-top-panel">
-            <a href="home-1.html" class="mil-logo mil-c-gone">J.</a>
+            <a href="home-1-dark.html" class="mil-logo mil-c-gone">J.</a>
             <div class="mil-menu-btn"><span></span></div>
         </div>
         <!-- top panel end -->
@@ -66,8 +66,8 @@
                     <li>
                         <a href="#home">Home</a>
                         <ul>
-                            <li><a href="home-1.html">Onepage</a></li>
-                            <li><a href="home-2.html">Multipage</a></li>
+                            <li><a href="home-1-dark.html">Onepage</a></li>
+                            <li><a href="home-2-dark.html">Multipage</a></li>
                         </ul>
                     </li>
                     <li>
@@ -92,10 +92,10 @@
                         <a href="#home">Versions</a>
                         <ul>
                             <li>
-                                <a href="home-1-dark.html">Switch to Dark</a>
+                                <a href="home-1.html">Switch to Light</a>
                             </li>
                             <li>
-                                <a href="home-2.html">Switch to Multipage</a>
+                                <a href="home-2-dark.html">Switch to Multipage</a>
                             </li>
                         </ul>
                     </li>
@@ -118,7 +118,7 @@
                                 <p class="mil-suptitle mil-fs16 mil-mb50">Web designer <span class="mil-accent">and</span> Developer</p>
                                 <h1 class="mil-fs90 mil-upper mil-mb40"><span class="mil-text-bg">Hello I<span class="mil-accent">’</span>m</span> <span class="mil-text-bg"><span class="mil-accent"><br>Josie</span> West</span></h1>
                                 <p class="mil-fs16 mil-shortened mil-soft mil-mb60">I believe that collaboration and creativity are the cornerstones of progress, and I am dedicated to bringing a fresh perspective to every project I undertake.</p>
-                                <div class="mil-c-gone"><a href="portfolio.html" class="mil-btn mil-btn-border">Explore my work</a></div>
+                                <div class="mil-c-gone"><a href="portfolio-dark.html" class="mil-btn mil-btn-border">Explore my work</a></div>
                             </div>
                         </div>
                         <div class="col-xl-6">
@@ -276,25 +276,25 @@
                             <div class="swiper-slide">
                                 <div class="mil-portfolio-item">
                                     <img src="img/portfolio/1.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                    <a href="project.html" class="mil-overlay mil-c-gone">Read more</a>
+                                    <a href="project-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="mil-portfolio-item">
                                     <img src="img/portfolio/2.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                    <a href="project.html" class="mil-overlay mil-c-gone">Read more</a>
+                                    <a href="project-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="mil-portfolio-item">
                                     <img src="img/portfolio/3.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                    <a href="project.html" class="mil-overlay mil-c-gone">Read more</a>
+                                    <a href="project-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="mil-portfolio-item">
                                     <img src="img/portfolio/5.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                    <a href="project.html" class="mil-overlay mil-c-gone">Read more</a>
+                                    <a href="project-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -317,7 +317,7 @@
                                         <div class="mil-blog-item">
                                             <div class="mil-pub-cover mil-c-swipe mil-c-light">
                                                 <img src="img/blog/1.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                                <a href="publication.html" class="mil-overlay mil-c-gone">Read more</a>
+                                                <a href="publication-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                             </div>
                                             <div class="mil-descr">
                                                 <div class="mil-left">
@@ -337,7 +337,7 @@
                                         <div class="mil-blog-item">
                                             <div class="mil-pub-cover mil-c-swipe mil-c-light">
                                                 <img src="img/blog/2.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                                <a href="publication.html" class="mil-overlay mil-c-gone">Read more</a>
+                                                <a href="publication-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                             </div>
                                             <div class="mil-descr">
                                                 <div class="mil-left">
@@ -357,7 +357,7 @@
                                         <div class="mil-blog-item">
                                             <div class="mil-pub-cover mil-c-swipe mil-c-light">
                                                 <img src="img/blog/3.jpg" alt="banner" class="mil-scale-img" data-value-1="1" data-value-2="1.25">
-                                                <a href="publication.html" class="mil-overlay mil-c-gone">Read more</a>
+                                                <a href="publication-dark.html" class="mil-overlay mil-c-gone">Read more</a>
                                             </div>
                                             <div class="mil-descr">
                                                 <div class="mil-left">
